@@ -1,0 +1,145 @@
+C:\Users\Jammyham\Documents\ruby>ruby cardgame.rb
+Welcome to blackjack!
+---------------------------------------------------
+Tokens: 5
+You bet a token.
+---------------------------------------------------
+Dealer's cards: A ?
+Player 1's cards: 6 K
+Player 1's Hand Value: 16
+Input h to hit, anything else to hold.
+
+You lose.
+Your Value: 16 vs. Dealer's Value: 18
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 4
+You bet a token.
+---------------------------------------------------
+Dealer's cards: 3 ? ?
+Player 1's cards: J 9
+Player 1's Hand Value: 19
+Input h to hit, anything else to hold.
+
+You lose.
+Your Value: 19 vs. Dealer's Value: 21
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 3
+You bet a token.
+---------------------------------------------------
+Dealer's cards: J ? ?
+Player 1's cards: A 8
+Player 1's Hand Value: 19
+Input h to hit, anything else to hold.
+
+You win. You gain 2 tokens.
+Your Value: 19 vs. Dealer's Value: Bust
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 4
+You bet a token.
+---------------------------------------------------
+Dealer's cards: 3 ? ? ? ?
+Player 1's cards: J J
+Player 1's Hand Value: 20
+Input h to hit, anything else to hold.
+
+You win. You gain 2 tokens.
+Your Value: 20 vs. Dealer's Value: Bust
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 5
+You bet a token.
+---------------------------------------------------
+Dealer's cards: 4 ? ?
+Player 1's cards: Q Q
+Player 1's Hand Value: 20
+Input h to hit, anything else to hold.
+
+Draw.
+Your Value: 20 vs. Dealer's Value: 20
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 5
+You bet a token.
+---------------------------------------------------
+Dealer's cards: 9 ? ?
+Player 1's cards: 8 5
+Player 1's Hand Value: 13
+Input h to hit, anything else to hold.
+
+You lose.
+Your Value: 13 vs. Dealer's Value: 21
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 4
+You bet a token.
+---------------------------------------------------
+Dealer's cards: 6 ? ?
+Player 1's cards: 2 5
+Player 1's Hand Value: 7
+Input h to hit, anything else to hold.
+
+You lose.
+Your Value: 7 vs. Dealer's Value: 19
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 3
+You bet a token.
+---------------------------------------------------
+Dealer's cards: A ?
+Player 1's cards: 2 Q
+Player 1's Hand Value: 12
+Input h to hit, anything else to hold.
+
+You lose.
+Your Value: 12 vs. Dealer's Value: 21
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 2
+You bet a token.
+---------------------------------------------------
+Dealer's cards: 8 ? ? ?
+Player 1's cards: K 6
+Player 1's Hand Value: 16
+Input h to hit, anything else to hold.
+
+You lose.
+Your Value: 16 vs. Dealer's Value: 20
+Press enter to play again or q + enter to quit.
+
+---------------------------------------------------
+Tokens: 1
+You bet a token.
+---------------------------------------------------
+Dealer's cards: 7 ? ?
+Player 1's cards: 3 2
+Player 1's Hand Value: 5
+Input h to hit, anything else to hold.
+h
+Player 1's cards: 3 2 8
+Player 1's Hand Value: 13
+Input h to hit, anything else to hold.
+h
+Player 1's cards: 3 2 8 4
+Player 1's Hand Value: 17
+Input h to hit, anything else to hold.
+h
+Player 1's cards: 3 2 8 4 K
+Player 1's Hand Value: 27
+Input h to hit, anything else to hold.
+
+You lose.
+Your Value: Bust vs. Dealer's Value: 19
+No more tokens left.
+
+C:\Users\Jammyham\Documents\ruby>
